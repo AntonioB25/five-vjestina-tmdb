@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="category_upcoming">Upcoming</string>
+    <string name="category_now_playing">Now playing</string>
+    <string name="label_home">Home</string>
+    <string name="label_favourites">Favourites</string>
+    <string name="image_description">Image of</string>
+    <string name="button_description_favourite">Add to favourites button</string>
+    <string name="movie_cover">Movie cover</string>
+    <string name="label_user_score">User Score</string>
+    <string name="label_top_billed">Top Billed Cast</string>
+    <string name="label_full_cast"><![CDATA[Full Cast & Crew]]></string>
+    <string name="route_favourites">favourites</string>
+    <string name="route_home">home</string>
+    <string name="label_overview">Overview</string>
+    <string name="label_recommendtations">Recommendations</string>
+    <string name="error_message_details">Could not get movie details</string>
+</resources>
