@@ -1,6 +1,6 @@
 # five-vjestina-tmdb
 Aplikacija za prikaz informacija o filmovima
-<img src="https://user-images.githubusercontent.com/48454906/220161668-e20dce38-9464-4ce9-ad88-3ffa85a24344.jpg" height=50%>
+<img src="https://user-images.githubusercontent.com/48454906/220161668-e20dce38-9464-4ce9-ad88-3ffa85a24344.jpg" height=25%>
 
 ![tmdb (4)](https://user-images.githubusercontent.com/48454906/220161668-e20dce38-9464-4ce9-ad88-3ffa85a24344.jpg =100x250)
 ![tmdb (3)](https://user-images.githubusercontent.com/48454906/220161647-1245c17e-6ab0-4d3f-85f6-a411bcbde083.jpg)
