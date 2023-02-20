@@ -1,5 +1,5 @@
 
-# five-vjestina-tmdb
+# TMDB 
 Aplikacija za prikaz informacija o filmovima, izrađena kroz zadaće u sklopu vještine koju je vodila tvrtka Five.
 <center>
 <img src="https://user-images.githubusercontent.com/48454906/220161709-05261810-1f14-412d-9018-495c8e9e9ae0.jpg" width="25%" height="25%">
